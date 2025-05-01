@@ -26,4 +26,4 @@
    cd ozvgirbot
 
    ```
-- (https://zarinp.al/errorapps)[حمایت]
+- [https://zarinp.al/errorapps](حمایت)
