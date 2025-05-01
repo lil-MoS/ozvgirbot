@@ -26,4 +26,5 @@
    cd ozvgirbot
 
    ```
-- [https://zarinp.al/errorapps](حمایت)
+- [حمایت به مبلغ دلخواه](https://zarinp.al/errorapps)
+- [ارتباط](https://t.me/pvmosibot)
